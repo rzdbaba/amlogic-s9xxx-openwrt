@@ -53,4 +53,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 # git apply ../router-config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
 # ------------------------------- Other ends -------------------------------
+git clone https://github.com/jerrykuku/luci-app-ttnode.git package/lean/luci-app-ttnode
 
